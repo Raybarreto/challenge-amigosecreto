@@ -33,6 +33,10 @@ Este projeto consiste em um jogo de Amigo Secreto desenvolvido com HTML, CSS e J
 Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
 
 
-## Autor
+## 👩‍💻 Sobre a Autora
 
-Raylaine Barreto
+<img src="https://avatars.githubusercontent.com/u/180755020?v=4" height="100"/>
+
+Desenvolvido por **Raylaine Barreto** 
+
+- [LinkedIn](https://www.linkedin.com/in/raylaine-barreto)
